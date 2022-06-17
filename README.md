@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://kotlinlang.org/">
-    <img src="https://www.imdeo.com/wp-content/uploads/2020/05/image.png" alt="Logo Kotlin" width="80" height="80">
+    <img src="https://www.imdeo.com/wp-content/uploads/2020/05/image.png" alt="Logo Kotlin">
   </a>
 
   <h1 align="center">Movie App Android</h1>
@@ -105,8 +105,8 @@ Contributions are what make the open source community such an amazing place to l
 <!-- CONTACT -->
 ## Contact
 
-Dona - 4dedona@gmail.com
-Eole - eole.gauthe@edu.devinci.fr - GitHub : [eole21](https://github.com/eole21)
+* Dona - 4dedona@gmail.com
+* Eole - eole.gauthe@edu.devinci.fr - GitHub : [eole21](https://github.com/eole21)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
